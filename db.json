@@ -2,13 +2,13 @@
     "users": [
         {
             "id": 1,
-            "question": "Which of the following is a disadvantage of using JavaScript?",
-            "correctanswer": "All of the above.",
+            "question": "Which built-in method returns the character at the specified index?",
+            "correctanswer": "charAt()",
             "options": [
-                " JavaScript doesn't have any multithreading or multiprocess capabilities",
-                " JavaScript can not be used for Networking applications because there is no such support available.",
-                "Client-side JavaScript does not allow the reading or writing of files.",
-                "All of the above."
+                "charAt()",
+                "getCharAt()",
+                "CharacterAt()",
+                "None of the above."
             ]
         },
         {
