@@ -24,90 +24,90 @@
         },
         {
             "id": 3,
-            "question": "Which Animal is the National Animal of an India?",
-            "correctanswer": "Tiger",
+            "question": "Which built-in method reverses the order of the elements of an array?",
+            "correctanswer": "reverse()",
             "options": [
-                "Lion",
-                "Cow",
-                "Tiger",
-                "Horse"
+                "changeOrder(order)",
+                "reverse()",
+                "sort(order)",
+                "None of the above."
             ]
         },
         {
             "id": 4,
-            "question": "How many players are in a football team?",
-            "correctanswer": "11",
+            "question": "Which of the following function of Boolean object returns the primitive value of the Boolean object?",
+            "correctanswer": "valueOf()",
             "options": [
-                "11",
-                "9",
-                "10",
-                "12"
+                "toSource()",
+                "valueOf()",
+                "toString()",
+                "None of the above"
             ]
         },
         {
             "id": 5,
-            "question": "Where is the Eiffel Tower located?",
-            "correctanswer": "Paris, France",
+            "question": "Which of the following function of String object splits a String object into an array of strings by separating the string into substrings?",
+            "correctanswer": "split()",
             "options": [
-                "Rome, Italy",
-                "Madrid, Spain",
-                "Durango, Mexico",
-                "Paris, France"
+                "slice()",
+                "split()",
+                "replace()",
+                "search()"
             ]
         },
         {
             "id": 6,
-            "question": "How many Continents are there?",
-            "correctanswer": "7",
+            "question": "Which of the following function of String object creates a string to be displayed as bold as if it were in a <b> tag?",
+            "correctanswer": "bold()",
             "options": [
-                "7",
-                "5",
-                "9",
-                "8"
+                "anchor()",
+                "big()",
+                "blink()",
+                "bold()"
             ]
         },
         {
             "id": 7,
-            "question": "How many months have 31 days?",
-            "correctanswer": "7",
+            "question": "Which of the following function of String object causes a string to be displayed in a small font, as if it were in a <small> tag?",
+            "correctanswer": "small()",
             "options": [
-                "6",
-                "7",
-                "8",
-                "9"
+                "link()",
+                "small()",
+                "sup()",
+                "sub()"
             ]
         },
         {
             "id": 8,
-            "question": "Which city is the financial capital city of India?",
-            "correctanswer": "Mumbai",
+            "question": "Which of the following function of Array object removes the last element from an array and returns that element?",
+            "correctanswer": "pop()",
             "options": [
-                "Delhi",
-                "Mumbai",
-                "Gujarat",
-                "Kolkata"
+                "pop()",
+                "push()",
+                "join()",
+                "map()"
             ]
         },
         {
             "id": 9,
-            "question": "Who is the king of Bollywood?",
-            "correctanswer": "Shah Rukh Khan",
+            "question": "Which of the following function of Array object applies a function simultaneously against two values of the array (from right-to-left) as to reduce it to a single value?",
+            "correctanswer": "reduceRight()",
             "options": [
-                "Salman Khan",
-                "Amir Khan",
-                "Akshay Kumar",
-                "Shah Rukh Khan"
+                "pop()",
+                "push()",
+                "reduce()",
+                "reduceRight()"
             ]
         },
         {
             "id": 10,
-            "question": "What is the name of the oldest lake in the world?",
-            "correctanswer": "Lake Baikal",
+            "question": "Which of the following is the correct syntax to print a page using JavaScript?",
+            "correctanswer": "window.print();",
             "options": [
-                "Lake Huron",
-                "Lake Malawi",
-                "Lake Baikal",
-                "Lake Victoria"
+                "window.print();",
+                "browser.print();",
+                "navigator.print();",
+                "document.print();"
             ]
         }
     ]
